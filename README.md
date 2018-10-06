@@ -13,5 +13,6 @@ Kevin Le
 #### Week 2
 Easy:
 Kevin Le
+
 Hard: 
 Timothy Zwart
