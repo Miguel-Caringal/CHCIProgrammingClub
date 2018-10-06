@@ -8,11 +8,11 @@ This repository contains example code and other resouces used in the club as wel
 
 #### Week 1
 Easy:
-Kevin Le
+Kevin Le (C++)
 
 #### Week 2
 Easy:
-Kevin Le
+Kevin Le (C++)
 
 Hard: 
-Timothy Zwart
+Timothy Zwart (C++)
