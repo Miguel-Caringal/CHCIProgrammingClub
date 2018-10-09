@@ -1,3 +1,5 @@
+#Miguel Caringal
+#Python Solution to Week 3 Medium Problem
 arraylength= int(input())
 
 array = []
