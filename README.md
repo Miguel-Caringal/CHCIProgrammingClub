@@ -14,5 +14,8 @@ Kevin Le (C++)
 Easy:
 Kevin Le (C++)
 
+Medium:
+Miguel Caringel (Python 3)
+
 Hard: 
 Timothy Zwart (C++)
