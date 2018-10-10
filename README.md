@@ -9,6 +9,7 @@ This repository contains example code and other resouces used in the club as wel
 #### Week 1
 Easy:
 Kevin Le (C++)
+
 Miguel Caringal (Python 3)
 
 #### Week 2
