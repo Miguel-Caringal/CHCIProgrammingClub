@@ -3,6 +3,14 @@
 ### Welcome to the CHCI Programming Club Github Repository
 This repository contains example code and other resouces used in the club as well as submitted solutions for Challenge of the Week
 
+### Leader Board
+
+ - 
+ -
+ -
+ -
+
+
 
 ### Submitted Challenge of the Week Solutions
 
