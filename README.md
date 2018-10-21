@@ -5,12 +5,11 @@ This repository contains example code and other resouces used in the club as wel
 
 ### Leader Board
 
-
-|Rank	| Name | Points |
-| :---: | --- | :---: |
-1	| Miguel Caringal	| 6
-2	| Timothy Zwart	| 4
-3	| Victor Wei	| 4
-4	| Kevin Le	| 2
-5	| Justin Zwart	| 2
-6	| Sterling Kuepfer	| 1
+| Rank	 | Name	 | Points
+| :---:	 | ---	 | :---:
+1	 | Miguel Caringal	 | 0
+2	 | Timothy Zwart	 | 6
+3	 | Victor Wei	 | 4
+4	 | Kevin Le	 | 4
+5	 | Justin Zwart	 | 2
+6	 | Sterling Kuepfer	 | 2
