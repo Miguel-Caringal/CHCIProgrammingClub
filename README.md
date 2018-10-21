@@ -13,4 +13,3 @@ This repository contains example code and other resouces used in the club as wel
 4	 | Kevin Le	 | 4
 5	 | Justin Zwart	 | 2
 6	 | Sterling Kuepfer	 | 2
-
