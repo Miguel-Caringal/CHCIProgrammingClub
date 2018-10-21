@@ -5,37 +5,12 @@ This repository contains example code and other resouces used in the club as wel
 
 ### Leader Board
 
-| Rank          | Name          | Points
-| ------------- |:-------------:| -----:
-| col 3 is      | right-aligned | $1600 
-| col 2 is      | centered      |   $12 
-| zebra stripes | are neat      |    $1 
+| Rank	 | Name	 | Points
+| :---:	 | ---	 | :---:
+1	 | Miguel Caringal	 | 0
+2	 | Timothy Zwart	 | 6
+3	 | Victor Wei	 | 4
+4	 | Kevin Le	 | 4
+5	 | Justin Zwart	 | 2
+6	 | Sterling Kuepfer	 | 2
 
-
-### Submitted Challenge of the Week Solutions
-
-#### Week 1
-Easy:
-Kevin Le (C++)
-
-Miguel Caringal (Python 3)
-
-#### Week 2
-Easy:
-Kevin Le (C++)
-
-Medium:
-Miguel Caringal (Python 3)
-
-Hard: 
-Timothy Zwart (C++)
-
-#### Week 3
-Easy:
-Kevin Le (C++)
-
-Medium:
-Miguel Caringal (Python 3)
-
-Hard: 
-Timothy Zwart (C++)
